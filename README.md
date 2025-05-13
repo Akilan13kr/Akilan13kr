@@ -37,7 +37,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akilan13kr&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akilan13krlayout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akilan13kr&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
