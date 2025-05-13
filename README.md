@@ -1,10 +1,18 @@
 <h1 align="center">Hi there, I'm K. R. Akilan 👋</h1>
+[PORTFOLIO]()
 
 <p align="center">
   A passionate Computer Engineering graduate dedicated to building impactful software and tech-driven solutions 🌱
 </p>
 
 ---
+
+### 🌐 Portfolio
+
+Check out my personal portfolio here 👉 [K. R. Akilan.dev](https://k-r-akilan-portfolio.netlify.app/)
+
+---
+
 
 ### 💡 About Me
 
@@ -46,6 +54,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akilan-k-r/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akilan13kr@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=google-chrome)](https://k-r-akilan-portfolio.netlify.app/)
+
 
 ---
 
