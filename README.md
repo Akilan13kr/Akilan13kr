@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm K. R. Akilan 👋</h1>
-[PORTFOLIO]()
+
 
 <p align="center">
   A passionate Computer Engineering graduate dedicated to building impactful software and tech-driven solutions 🌱
